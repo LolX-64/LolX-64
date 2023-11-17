@@ -1,4 +1,6 @@
-<h1><img src="https://github.com/Lollio64/OBJParserTool/blob/main/source/Screenshot%20(40).png" alt="LolX-64"><b>LolX-64</b></h1>
+<img src="https://github.com/Lollio64/OBJParserTool/blob/main/source/Screenshot%20(40).png" alt="LolX-64">
+
+# LolX-64
 ### Info 
 A LolX-64 emulator for PC.
 
