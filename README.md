@@ -10,6 +10,7 @@ Here are some theoretical specs I made for the system:<br>
 - 64 Bit Processor, 1MHz
 - Either a simple GPU or no GPU
 - 8 to 16 MB of RAM, maybe expandable
-Just note that I'm **NOT** an expert on PC specs.
+
+Just note that I'm **NOT** an expert on PC specs.<br>
 ### Credits
 Created an developed by [Lollio64](https://github.com/Lollio64).
